@@ -1,0 +1,1 @@
+INSERT INTO patient (ID, First_Name, Last_Name, Birth_Date, Address, VisitDates) VALUES(1, 'John', 'Smith', '1985-05-15', '', '');
